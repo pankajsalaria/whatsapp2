@@ -1,5 +1,5 @@
 #!/bin/bash
-filename="stop-client.csv"
+filename="start-client.csv"
 WA_VERSION="2.45.2"
 (cat "$filename"; echo "") |
 while read line;
